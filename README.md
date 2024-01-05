@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahid Ahmed</h1>
 <h3 align="center">A Professional DevOps Engineer 🚀</h3>
 
-<p align="center">
-<a href="https://linkedin.com/in/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
-</a>
-  &nbsp;&nbsp;
-<a href="https://stackoverflow.com/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
-</a>
-
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
 🏢 I’m currently working in [Sokrio Technologies Ltd](https://www.sokrio.com/) as **DevOps Engineer**
