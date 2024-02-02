@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Zahid Ahmed</h2>
+**_<h1 align="center">Hi 👋, I'm Zahid Ahmed</h1>_**
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
